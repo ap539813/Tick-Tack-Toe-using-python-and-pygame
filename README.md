@@ -8,12 +8,9 @@ A GUI implementation of the Tick Tack Toe game using python (pygame).
 # Screenshots related to the project are shown below:
 
 # 1.6 RESULTS:
-* Happy face
-![](screenshots/Screenshot from 2020-01-14 12-14-54.png)
-* Sad face
-![](screenshots/Screenshot from 2020-01-14 12-16-43.png)
-* Angry face
-![](screenshots/Screenshot from 2020-01-14 12-28-23.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
 
 * A complete gameplay in shown in this video : 
 
